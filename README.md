@@ -50,7 +50,7 @@ Below is the example curl request to test the app once it's up and running:
 
 ```
 curl -X GET \
-  'http://localhost:8686/moviefinder/find?movie=Rambo&api=IMDB' \
+  'http://localhost:8686/moviefinder/find?movie=Rambo&api=TMDB' \
   -H 'content-type: application/json' \
 ```
 
